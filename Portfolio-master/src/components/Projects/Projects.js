@@ -7,7 +7,6 @@ import emotion from "../../Assets/Projects/mock2.png";
 import editor from "../../Assets/Projects/mock3.png";
 import chatify from "../../Assets/Projects/mock4.png";
 import suicide from "../../Assets/Projects/mock5.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
